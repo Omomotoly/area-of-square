@@ -29,6 +29,13 @@ console.log('Area of the square:', area1);
 const area2 = areaOfSquare(7);
 console.log('Area of the square:', area2);
 
+## Keywords
+area
+square
+geometry
+mathematics
+calculation
+
 ## Contributing
  If you want to contribute to the Area of Square Calculator, please open an issue or submit a pull request on the GitHub repository.
 
